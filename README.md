@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Roszczyk/Roszczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mikołaj Roszczyk
 
-Here are some ideas to get you started:
+Software Engineer | Researcher | Conference Speaker
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently working on:
+ - **[OpenVINO](https://github.com/openvinotoolkit/openvino) GPU Plugin** as a part of my job at Intel
+ - Multi-layer decision systems with focus on **information fusion** as a part of my research - [DecisionSystemFeeder](https://github.com/Roszczyk/DecisionSystemFeeder)
+
+### 🧠 Main interests:
+ - Operational Research
+ - AI inference optimisation
+ - GPU kernels
+
+### 🌍 Community Endeavours:
+ - **PyData Warsaw** organiser - reach out on [Meetup.com](https://www.meetup.com/pydata-warsaw/) and [LinkedIn](https://www.linkedin.com/company/pydata-poland)
+ - [**Python Summit**](https://pythonsummit.org/) programme council member
+
+### 💻 Tech stack: 
+```C```  ```C++```  ```Python```  ```OpenCL``` ```Docker```
+
+### 🎙️ Talks & content
+I enjoy sharing knowledge through conference talks.
+
+ - 🎤 Check out my speaker profile on [Crossweb](https://crossweb.pl/profile/mikolaj-roszczyk/130228/).
+ - 🎬 Subscribe to my [YouTube channel](https://www.youtube.com/@roszczyk.m).
+
+### 📬 Get in touch
+Reach out to me on: [LinkedIn](https://www.linkedin.com/in/mikolaj-roszczyk/) 
