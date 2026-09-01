@@ -25,9 +25,9 @@ Software Engineer | Researcher | Conference Speaker
 **🎙️ Talks & content:**
 
 I enjoy sharing knowledge through conference talks.
-
  - 🎤 Check out my speaker profile on [Crossweb](https://crossweb.pl/profile/mikolaj-roszczyk/130228/).
  - 🎬 Subscribe to my [YouTube channel](https://www.youtube.com/@roszczyk.m).
 
 **📬 Get in touch**
+
 Reach out to me on: [LinkedIn](https://www.linkedin.com/in/mikolaj-roszczyk/) 
